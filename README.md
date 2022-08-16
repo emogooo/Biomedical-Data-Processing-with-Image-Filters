@@ -80,3 +80,13 @@ Normalizasyon işlemi çekirdek üzerinde şu adımlarla yapılır. (4)
 Gabor Filtresi ile Röntgen Görüntüsü
 
 ![gabor](https://user-images.githubusercontent.com/58745898/184991499-39df876e-d0cc-41cd-9347-895069972b56.jpg)
+
+Kaynaklar
+
+1 : https://dergipark.org.tr/tr/download/article-file/388674
+
+2 : https://www.youtube.com/watch?v=h-z9-bMtd7w
+
+3 : https://aylablgn.medium.com/yönlü-gradyanlar-histogramı-histogram-of-oriented-gradients-hog-makine-öğrenmesi-5-e237f0696af3
+
+4: http://www.cescript.com/2012/09/c-ile-gabor-filtre-uygulamasi.html
