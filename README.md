@@ -1,4 +1,4 @@
-# LBP-HOG-Gabor Filtreleri ile Biyomedikal Verilerin İşlenmesi
+# Biomedical Data Processing with Image Filters
  Çeşitli görüntü işleme filtrelerinin biyomedikal veriler ile kullanımı
 
 Orijinal Rönten Görüntüsü
