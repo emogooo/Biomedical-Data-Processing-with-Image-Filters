@@ -12,7 +12,7 @@ LBP is an image processing technique that works with black and white images. It 
 
 ### Steps
 
-1. Divide the input image into 3x3 matrices. (Each pixel in black and white images has a value between 0-255. Therefore, the input image is divided into 3x3 segments.)
+1. Divide the input image into 3x3 matrices. (Each pixel in black and white images has a value between 0-255. Therefore, the input image is divided into 3x3 segments)
 2. Calculate the value of each matrix. (How the matrix value is calculated is explained later in the text.)
 3. Combine all the calculated values in order to create a new matrix.
 4. Multiply each cell by the coefficients of the regions to form the final matrix. (Creating the coefficient matrix requires a separate scientific study.)
